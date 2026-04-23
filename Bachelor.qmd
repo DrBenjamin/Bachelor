@@ -483,7 +483,7 @@ Als Kalkulationsgrundlage für die Preisgestaltung des Angebotes dient die anges
 
 Abb\. 6\.1: Tabelle \- Produktionskosten
 
-![](resources/Bachelor-docx-media/image13.x-emf)
+![](resources/Bachelor-docx-media/Produktionskosten.png)
 
 Quelle: eigene Darstellung
 
@@ -491,7 +491,7 @@ Die Grenzkosten des Produktes sind sehr gering, da bei einem digitalen Produkt k
 
 Abb\. 6\.2: Tabelle \- Kapitalquellen
 
-![](resources/Bachelor-docx-media/image14.x-emf)
+![](resources/Bachelor-docx-media/Kapitalquellen.png)
 
 Quelle: eigene Darstellung
 
