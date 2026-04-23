@@ -93,33 +93,33 @@ Marketing, Monetarisierungsstrategien, Finanzplan
 
 # Abkürzungsverzeichnis
 
-<span id="abbr-ebooks"></span>[eBooks](#abbr-ebooks) -> elektronische / digitale Bücher
+eBooks -> elektronische / digitale Bücher
 
-<span id="abbr-ehealth"></span>[eHealth](#abbr-ehealth) -> elektronische / digitale Gesundheitsprodukte
+eHealth -> elektronische / digitale Gesundheitsprodukte
 
-<span id="abbr-elearning"></span>[eLearning](#abbr-elearning) -> digitales Lernen
+eLearning -> digitales Lernen
 
-<span id="abbr-gkv"></span>[GKV](#abbr-gkv) -> Gesetzliche Krankenkassen
+GKV -> Gesetzliche Krankenkassen
 
-<span id="abbr-ki"></span>[KI](#abbr-ki) -> Künstliche Intelligenz
+KI -> Künstliche Intelligenz
 
-<span id="abbr-npc"></span>[NPC](#abbr-npc) -> Non-player character
+NPC -> Non-player character
 
-<span id="abbr-pi"></span>[PI](#abbr-pi) -> Persönliche Intelligenz
+PI -> Persönliche Intelligenz
 
-<span id="abbr-pkv"></span>[PKV](#abbr-pkv) -> Private Krankenkasse
+PKV -> Private Krankenkasse
 
-<span id="abbr-prg"></span>[Prg](#abbr-prg) -> Paarung
+PRG -> Paarung
 
-<span id="abbr-tablet"></span>[Tablet](#abbr-tablet) -> Tablet-Computer
+Tablet -> Tablet-Computer
 
-<span id="abbr-tk"></span>[TK](#abbr-tk) -> Techniker Krankenkasse
+TK -> Techniker Krankenkasse
 
-<span id="abbr-ui"></span>[UI](#abbr-ui) -> User Interface
+UI -> User Interface
 
-<span id="abbr-vr"></span>[VR](#abbr-vr) -> Virtual Reality
+VR -> Virtual Reality
 
-<span id="abbr-zpp"></span>[ZPP](#abbr-zpp) -> Zentrale Prüfstelle für Prävention
+ZPP -> Zentrale Prüfstelle für Prävention
 
 # Abbildungsverzeichnis
 
@@ -251,7 +251,7 @@ Unternehmen bewusst, mehr als die Hälfte setzt diese Form der Edukation bereits
 
 Abb. 1.1: Serious Games für Weiterbildungen
 
-![](resources/images/image2.jpeg){#fig-1-1}
+![Abb. 1.1: Serious Games für Weiterbildungen](resources/images/image2.jpeg){#fig-1-1}
 
 Quelle: game – Verband der deutschen Games-Branche e.V., 2018
 
@@ -326,7 +326,7 @@ Nach Daun [@Daun2012] lernen Kinder oftmals spielerisch, in ihnen soll eine gera
 
 Abb\. 4\.1: Durchschnittlicher App\-Preis
 
-![](resources/images/image3.png){#fig-4-1}
+![Abb. 4.1: Durchschnittlicher App-Preis](resources/images/image3.png){#fig-4-1}
 
 Quelle: statista, 2018
 
@@ -334,7 +334,7 @@ Spiele in App\-Form für Tablet\-Computer können in Zukunft eine größere Ziel
 
 Abb\. 4\.2: Durchschnittliche Spiele\-Preise
 
-![](resources/images/image4.png){#fig-4-2}
+![Abb. 4.2: Durchschnittliche Spiele-Preise](resources/images/image4.png){#fig-4-2}
 
 Quelle: statista, 2018
 
@@ -372,7 +372,7 @@ Nach Sinclair, Hingston und Masek [@Sinclair2009] und ihrer DualFlow Theorie, mu
 
 Abb\. 4\.2\.1: Angeborene Lernlust
 
-![](resources/images/image5.jpeg){#fig-4-2-1}
+![Abb. 4.2.1: Angeborene Lernlust](resources/images/image5.jpeg){#fig-4-2-1}
 
 Quelle: Andrea Daun, 2012
 
@@ -390,7 +390,7 @@ Der Prototyp wurde von Kindern zwischen acht und neun Jahren gespielt\. Die Ziel
 
 Abb\. 4\.3\.1: Produktion von Gesundheitsprodukten
 
-![](resources/images/image6.png){#fig-4-3-1}
+![Abb. 4.3.1: Produktion von Gesundheitsprodukten](resources/images/image6.png){#fig-4-3-1}
 
 Quelle: Greiner, Schulenburg & Vauth, 2008
 
@@ -412,7 +412,7 @@ Das Crowdfunding eine gute Möglichkeit für Spieleentwickler\-Studios mit keine
 
 Abb\. 4\.3\.2\.1: Budgetplan ‚Bolt Riley Episode 1‘
 
-![](resources/images/image7.png){#fig-4-3-2-1}
+![Abb. 4.3.2.1: Budgetplan ‚Bolt Riley Episode 1‘](resources/images/image7.png){#fig-4-3-2-1}
 
 Quelle: Kickstarter\.com, 2019
 
@@ -464,7 +464,7 @@ Von 22 Kindern der Klasse haben 15 an der Umfrage, deren Teilnahme freiwillig wa
 
 Abb\. 5\.1: Item 1 
 
-![](resources/images/image8.png){#fig-5-1}
+![Abb. 5.1: Item 1 ](resources/images/image8.png){#fig-5-1}
 
 Quelle: Eigene Datenerhebung
 
@@ -472,7 +472,7 @@ Das ‚Item 2‘ \(Abb\. 5\.2\) zielte auf die Kaufgewohnheiten der Schüler ab\
 
 Abb\. 5\.2: Item 2
 
-![](resources/images/image9.png){#fig-5-2}
+![Abb. 5.2: Item 2](resources/images/image9.png){#fig-5-2}
 
 Quelle: Eigene Datenerhebung
 
@@ -480,7 +480,7 @@ Die Frage nach der Spielform in ‚Item 3‘ \(Abb\. 5\.3\) beantworteten zehn K
 
 Abb\. 5\.3: Item 3
 
-![](resources/images/image10.png){#fig-5-3}
+![Abb. 5.3: Item 3](resources/images/image10.png){#fig-5-3}
 
 Quelle: Eigene Datenerhebung
 
@@ -488,7 +488,7 @@ Die Frage nach dem Spannungsgrat \(‚Item 4‘\) der Geschichte \(Abb\. 5\.4\),
 
 Abb\. 5\.4: Item 4
 
-![](resources/images/image11.png){#fig-5-4}
+![Abb. 5.4: Item 4](resources/images/image11.png){#fig-5-4}
 
 Quelle: Eigene Datenerhebung
 
@@ -496,7 +496,7 @@ Schlussendlich wurde in der Umfrage im ‚Item 5‘ \(Abb\. 5\.5\) erfragt, ob d
 
 Abb\. 5\.5: Item 5
 
-![](resources/images/image12.png){#fig-5-5}
+![Abb. 5.5: Item 5](resources/images/image12.png){#fig-5-5}
 
 Quelle: Eigene Datenerhebung
 
@@ -520,7 +520,7 @@ Als Kalkulationsgrundlage für die Preisgestaltung des Angebotes dient die anges
 
 Abb\. 6\.1: Tabelle \- Produktionskosten
 
-![](resources/images/Produktionskosten.png){#fig-6-1}
+![Abb. 6.1: Tabelle - Produktionskosten](resources/images/Produktionskosten.png){#fig-6-1}
 
 Quelle: eigene Darstellung
 
@@ -528,7 +528,7 @@ Die Grenzkosten des Produktes sind sehr gering, da bei einem digitalen Produkt k
 
 Abb\. 6\.2: Tabelle \- Kapitalquellen
 
-![](resources/images/Kapitalquellen.png){#fig-6-2}
+![Abb. 6.2: Tabelle - Kapitalquellen](resources/images/Kapitalquellen.png){#fig-6-2}
 
 Quelle: eigene Darstellung
 
@@ -557,57 +557,57 @@ Um im Vorfeld die Bekanntheit des innovativen Projektes zu steigern, sowie um am
 
 __Spielgrafik 1:__ ‚SAM‘ und ‚SEB‘
 
-![](resources/images/image15.png)
+![Spielgrafik 1: ‚SAM‘ und ‚SEB‘](resources/images/image15.png)
 
 __Spielgrafik 2:__ ‚Pulp‘
 
-![](resources/images/image16.png)
+![Spielgrafik 2: ‚Pulp‘](resources/images/image16.png)
 
 __Spielgrafik 3:__ ‚Emmi‘ und ‚Sertan‘
 
-![](resources/images/image17.png)
+![Spielgrafik 3: ‚Emmi‘ und ‚Sertan‘](resources/images/image17.png)
 
 __Spielgrafik 4:__ ‚BenBox‘ und ‚Kleaner‘
 
-![](resources/images/image18.png)
+![Spielgrafik 4: ‚BenBox‘ und ‚Kleaner‘](resources/images/image18.png)
 
-![](resources/images/image19.png)
+![Spielgrafik 4: ‚BenBox‘ und ‚Kleaner‘](resources/images/image19.png)
 
 __Spielgrafik 5:__ ‚Maschinenraum‘
 
-![](resources/images/image20.jpeg)
+![Spielgrafik 5: ‚Maschinenraum‘](resources/images/image20.jpeg)
 
 __Spielgrafik 6:__ ‚Hangar‘
 
-![](resources/images/image21.jpeg)
+![Spielgrafik 6: ‚Hangar‘](resources/images/image21.jpeg)
 
 __Spielgrafik 7:__ ‚Holo Deck‘
 
-![](resources/images/image22.jpeg)
+![Spielgrafik 7: ‚Holo Deck‘](resources/images/image22.jpeg)
 
 __Spielgrafik 8:__ ‚BenBox Protokolle‘
 
-![](resources/images/image23.jpeg)
+![Spielgrafik 8: ‚BenBox Protokolle‘](resources/images/image23.jpeg)
 
 __Spielgrafik 9:__ ‚Via Sacra‘
 
-![](resources/images/image24.jpeg)
+![Spielgrafik 9: ‚Via Sacra‘](resources/images/image24.jpeg)
 
 __Spielgrafik 10:__ ‚Updater‘
 
-![](resources/images/image25.jpeg)
+![Spielgrafik 10: ‚Updater‘](resources/images/image25.jpeg)
 
 __Spielkarten:__ Auswahl
 
-![](resources/images/image26.png)
+![Spielkarten: Auswahl](resources/images/image26.png)
 
 __Spielgegenstände:__ BenBox Balance Board und Kirchenmauer
 
-![](resources/images/image27.jpeg)
+![Spielgegenstände: BenBox Balance Board und Kirchenmauer](resources/images/image27.jpeg)
 
 __Spielgegenstände 2:__ Bewertungsregeln
 
-![](resources/images/image28.png)
+![Spielgegenstände 2: Bewertungsregeln](resources/images/image28.png)
 
 # Eidesstattliche Versicherung
 
