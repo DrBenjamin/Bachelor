@@ -55,6 +55,7 @@ link-citations: true
 csl: "./resources/apa.csl"
 bibliography: "./resources/references.bib"
 suppress-bibliography: false
+nocite: '@*'
 execute:
   enabled: true
   echo: false
@@ -89,52 +90,6 @@ Zweitgutachter: Herr Prof\. Dr\. Hans\-Hermann Dirksen
 Semester: SS 2019
 
 11\.06\.2019
-
-Inhaltsverzeichnis
-
-Zusammenfassung										1
-
-Abkürzungsverzeichnis									2
-
-Abbildungsverzeichnis									3
-
-1	Einleitung										4
-
-2	Aktueller Forschungsstand								7
-
-3	Methode										10
-
-	3\.1	Erhebung der Daten								12
-
-	3\.2	Auswertung der Daten							14
-
-4	Nutzen Digitaler Medien								15
-
-4\.1	Serious Games in der Edukation \(eLearning\)				19
-
-4\.2	Serious Games in der Gesundheitsförderung \(eHealth\)			23
-
-	4\.3	Ökonomische Betrachtungen eines Serious Games			27
-
-		4\.3\.1	Vertriebswege							29
-
-		4\.3\.2	Finanzierungsstrategien						31
-
-		4\.3\.3	Vertriebs\-, Finanzierungs\- und Marketingmix			32
-
-	4\.4	Ökonomische Betrachtungen eines Corporate Games			34
-
-5	Ergebnisse										34
-
-6	Diskussion										37
-
-7	Fazit und Ausblick							       		41
-
-Literaturverzeichnis										44
-
-Anhang											51
-
-Eidesstattliche Versicherung								58
 
 # Zusammenfassung
 
