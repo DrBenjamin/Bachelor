@@ -10,6 +10,10 @@ author:
     - "Website: https://drbenjamin.github.io"
 filters:
   - ./resources/adjustTime.lua
+bibliography:
+  - ./resources/references.bib
+csl: ./resources/apa.csl
+nocite: '@*'
 abstract: |
   Die vorliegende Arbeit beschäftigt sich mit dem Serious Game Prototypen BenBox.org,
   ein Spiel für Kinder der Zielgruppe 6 bis 13 Jahre, in der Gesundheitsförderung im
@@ -45,17 +49,20 @@ format:
 
 # Bachelorarbeit
 
-**BenBox.org**
-Untersuchung eines ‘Serious Game‘ in Bezug auf
+**BenBox.org** - Untersuchung eines ‘Serious Game‘ in Bezug auf
 seinen Nutzen in der Gesundheitsförderung
 
 Bachelor-Arbeit zur Erlangung des Akademischen Grades
+
 „Bachelor of Science“ (B. Sc.)
+
 Benjamin Groß
+
 Martikel Nr.: 400147257
 
-Erstgutachter: Herr Dr. Robert Zickermann
-Zweitgutachter: Herr Prof. Dr. Hans-Hermann Dirksen
+**Erstgutachter:** Herr Dr. Robert Zickermann
+
+**Zweitgutachter:** Herr Prof. Dr. Hans-Hermann Dirksen
 
 Semester: SS 2019
 11.06.2019
@@ -553,150 +560,6 @@ Das BenBox\.org Spiel soll zum Teil durch Risikokapitalgeber, also mit Geld von 
 
 Um im Vorfeld die Bekanntheit des innovativen Projektes zu steigern, sowie um am starken Digital\-Health\-Cluster Netzwerk in der Region Köln\-Bonn zu partizipieren, soll die BenBox\.org im Rahmen des Health\-i Award 2019 in der Kategorie ‚Junge Talente‘ am Wettbewerb mit Einsendeschluss am 12\. Juni diesen Jahres teilnehmen\.
 
-# Literaturverzeichnis
-
-Adler, Dr\. M\., Ganzenberg, E\., Martin, M\., González, R\., R\. & Schubert, N\. \(2017\)\. Media Activity Guide 2017: Mediennutzung im Blick\. Unterföhring: SevenOne Media GmbH\.
-
-Bathge, P\. \(2019\)\.* Star Citizen: Crowdfunding\-Summe überschreitet 222 Millionen US\-Dollar*\. Zugriff am 14\.05\.2019 unter: https://www\.gamestar\.de/artikel/star\-citizen\-222\-millionen\-dollar\-finanzierung,3342603\.html
-
-Baur, N\. & Blasius J\. \(2014\)\. Handbuch Methoden der empirischen Sozialforschung\. Wiesbaden: Springer VS\.
-
-Becker, L\. \(2019\)\. *Apples WWDC 2019: iOS 13 mit Dunkelmodus, Datenschutz und optimierter Leistung*\. Zugriff am 8\.6\.2019 unter: https://www\.heise\.de/mac\-and\-i/meldung/Apples\-WWDC\-2019\-iOS\-13\-mit\-Dunkelmodus\-Datenschutz\-und\-optimierter\-Leistung\-4438243\.html?hg=1&hgi=39&hgf=false
-
-Beineke, J\. \(2019\)\. *Mobile Games: 24 Lieblingsspiele der Heise\-Redaktion für Smartphone\. Spiele für Smartphones sind billige Werbeschleudern, voll mit Mikrotransaktionen? Das muss nicht sein, wie die liebsten Games der Heise Redakteure beweisen\.* Zugriff am 6\.6\.2019 unter: https://www\.heise\.de/ratgeber/Mobile\-Games\-24\-Lieblingsspiele\-der\-Heise\-Redaktionen\-fuers\-Smartphone\-4431033\.html?seite=all
-
-Bensch, M\. & Raab\-Steiner, E\. \(2012\)\. Der Fragebogen \(3\. Aufl\.\)\. Wien: Facultas Verlag\- und Buchhandels AG\.
-
-Bourdieu, P\. \(1983\)\. Ökonomisches Kapital, kulturelles Kapital, soziales Kapital\. In R\. Kreckel \(Hrsg\.\), *Soziale Ungleichheiten*, S\. 183\-199\. Göttingen: Schwartz\.
-
-Bucher, A\. \(2014\)\. *Psychologie der Spiritualität* \(2\. Aufl\.\)\. Basel: Beltz Verlag\.
-
-Bundesjugendministerium \(Hrsg\.\) \(2017\)\. *Medienkompetenz stärken*\. Zugriff am 10\.05\.2019 unter https://www\.bmfsfj\.de/bmfsfj/themen/kinder\-und\-jugend/medienkompetenz/medienkompetenz\-staerken/75350
-
-Bundesministerium für Bildung und Forschung \(Hrsg\.\) \(o\. J\.\)\. Digitalisierung in Bildung und Forschung\. Zugriff am 9\.6\.2019 unter: https://www\.bmbf\.de/de/open\-access\-das\-urheberrecht\-muss\-der\-wissenschaft\-dienen\-846\.html
-
-Daun\., A\. \(2012\)\. *Starke Kinder – Wollen wir die wirklich haben? *Aachen: Karin Fischer Verlag GmbH\.
-
-Egger, L\. \(2009\)\. *The impact of Harry Potter on readers of his age*\. München: GRIN Verlag\.
-
-Euro\-Informationen \(Hrsg\.\) \(2019\)\. *Die größten Krankenkassen: Versicherte 2019*\. Zugriff am 3\.6\.2019 unter: https://www\.krankenkassen\.de/krankenkassen\-vergleich/statistik/versicherte/aktuell/
-
-Flothow, A\., Kempf, H\. D\., Kuhnt, U\. & Lehmann, G\. \(Hrsg\.\) \(2011\)\. *KddR\-Manual\. Neue Rückenschule Professionelle Kurskonzeption in Theorie und Praxis*\. München: Elsevier GmbH\.
-
-Förstl, H\. \(2012\)\. *Theory of Mind\. Neurobiologie und Psychologie sozialen Verhaltens* \(2\. Aufl\.\)\. Heidelberg: Springer\.
-
-Gaschler, K\. \(2019\)\. Optimierung in rasantem Tempo\. *Gehirn & Geist*, 5\_2019, 82\-83\.
-
-game \- Verband der deutschen Games\-Branche \(Hrsg\.\) \(2018\)\. *DEUTSCHER*
-
-*GAMES\-FONDS\. Modell für eine Games\-Förderung des Bundes\. *Zugriff am 15\.05\.2019 unter: https://www\.game\.de/wp\-content/uploads/2018/04/2018\-09\-28\-Deutscher\-Games\-Fonds\.pdf
-
-game \- Verband der deutschen Games\-Branche \(Hrsg\.\) \(2017\)\. *Gamer kaufen häufiger Zusatzinhalte für Free\-to\-Play\-Spiele und Co\.* Zugriff am 13\.05\.2019 unter [https://www\.game\.de/gamer\-kaufen\-haeufiger\-zusatzinhalte\-fuer\-free\-to\-play\-spiele\-und\-co/](https://www.game.de/gamer-kaufen-haeufiger-zusatzinhalte-fuer-free-to-play-spiele-und-co/)
-
-Goldin, I\. & Kutarna, C\. \(2016\)\. *Die zweite Renaissance: Warum die Menschheit vor dem Wendepunkt steht*\. München: FinanzBuch Verlag\.
-
-Greiner, W\., Schulenburg, J\.\-M\. G\., Vauth, C\. \(Hrsg\.\) \(2008\)\. *Gesundheitsbetriebslehre*\. Bern: Verlag Hans Huber\.
-
-Gugutzer, R\. & Staack, M\. \(Hrsg\.\) \(2015\)\. *Körper und Ritual\. Sozial\- und kulturwissenschaftliche Zugänge und Analysen*\. Wiesbaden: Springer Fachmedien\.
-
-Günther, B\. \(2014\)\. *Apple erhält 30% der Einnahmen von Microsoft Office für iPad*\. Zugriff am 22\.05\.2019 unter: https://www\.mactechnews\.de/news/article/Apple\-erhaelt\-30\-der\-Einnahmen\-von\-Microsoft\-Office\-fuer\-iPad\-158076\.html
-
-Häckl, D\. \(2010\)\. *Neue Technologien im Gesundheitswesen\. Rahmenbedingungen und Akteure*\. Wiesbaden: Gabler Verlag\.
-
-Heim, D\. \(2018\)\. *Supercell erklärt automatisierte Monetarisierung in Clash Royale*\. Zugriff am 10\.05\.2019 unter https://www\.newsslash\.com/n/12669\-supercell\-erklaert\-automatisierte\-monetarisierung\-in\-clash\-royale
-
-Hennings, S\. \(2012\)\. Patientenbefragung als Chance für Qualitätsmanagement und Praxismarketing\. Hamburg: Diplomica Verlag GmbH\.
-
-Herbig, D\. \(2019\)\. *Google Stadia: Cloud\-Gaming\-Dienst kostet 10 Euro im Abo*\. Zugriff am 7\.6\.2019 unter: https://www\.heise\.de/newsticker/meldung/Google\-Stadia\-Cloud\-Gaming\-Dienst\-kostet\-10\-Euro\-im\-Abo\-4441177\.html
-
-Hollenberg, S\. \(2016\)\. *Fragebögen\. Fundierte Konstruktion, sachgerechte Anwendung und aussagekräftige Auswertung*\. Wiesbaden: Springer Fachmedien\.
-
-Holler, A\. \(2012\)\. Freundschaft ist Wichtig\. Was Kinder meinen aus SpongeBob Schwammkopf gelernt zu haben\. *TELEVIZION, 25/2012/2*, 19\-22\.
-
-Informatik und Gesellschaft \(2009\)\. *Schwache KI und Starke KI\. * Zugriff am 29\.03\.2019 unter http://www\.informatik\.uni\-oldenburg\.de/~iug08/ki/Grundlagen\_Starke\_KI\_vs\.\_Schwache\_KI\.html 
-
-IZI \(Internationales Zentralinstitut für das Jugend\- und Bildungsfernsehen\) \(Hrsg\.\) \(2019\)\. *Grunddaten Kinder und Medien 2019*\. Zugriff am 04\.03\.2019 unter: https://www\.br\-online\.de/jugend/izi/deutsch/Grunddaten\_Kinder\_u\_Medien\.pdf
-
-Jæger, M\. M\., Karlson, K\. \(2018\)\. Cuiltural capital and educational inequality\. A counterfactual analysis\. *Sociological Science 5*, DOI: 10\.15195/v5\.a33, 775\-795\.
-
-Kallus, K\. W\. \(2016\)\. *Erstellung von Fragebogen *\(2\. Aufl\.\)\. Ulm: CPI\-Ebner & Spiegel\.
-
-Kelava, A\. & Moosbrugger, H\. \(2012\)\. *Testtheorie und Fragebogenkonstruktion *\(2\. Aufl\.\)\. Heidelberg: Springer\.
-
-Krämer, S\. \(2019\)\. Die Kulturtechnik der Verflachung\. Zugriff am 7\.6\.2019 unter: https://19\.re\-publica\.com/de/news/rp19\-sybille\-kraemer
-
-Kroeber\-Riel, W\. & Esch, F\. \(2015\)\. *Strategie und Technik der Werbung\. Verhaltens\- und neurowissenschaftliche Erkenntnisse* \(8\. Aufl\.\)\. Stuttgart: W\. Kohlhammer GmbH\.
-
-Lammenett, E\. \(2014\)\. *Praxiswissen Online\-Marketing\. Affiliate\- und E\-Mail\-Marketing, Suchmaschinenmarketing, Online\-Werbung, Social Media, Online\-PR* \(4\. Aufl\.\)\. Wiesbaden: Springer Fachmedien\.
-
-Land, K\.\-H\. \(2018\)\. *Erde 5\.0\. Die Zukunft provozieren*\. Köln: FutureVisionPress e\.K\.\.
-
-Legner, A\. \(1989\)\. *Reliquien\. Verehrung und Verklärung*\. Köln: Greven & Bechtold GmbH\.
-
-Lay, R\. \(1995\)\. *Nachkirchliches Christentum\. Der lebende Jesus und die sterbende Kirche* \(2\. Aufl\.\)\. Ulm: Ebner\.
-
-Leven, D\. & Knaak, P\. \(2017\)\. Viel zu verlieren\. *Stiftung Warentest, 7/2017*, 26\-31\.
-
-Martin\-Niedecken, A\. L\. & Mekler, E\. D\. \(2018\)\. The ExerCube: Participatory Design of an Immersive Fitness Game Environment\. In S\. Göbel, A\. Garcia\-Agundez, T\. Tregel, M\. Ma, J\. Baalsrud Hauge, M\. Oliveira, T\. Marsh, P\. Caserman \(Hrsg\.\), *Serious Games \- 4th Joint International Conference, JCSG 2018 *\(S\. 263\-275\)\. Cham: Springer Nature Switzerland AG\.
-
-Mummendey, H\. D\. & Grau, I\. \(2014\)\. *Die Fragebogenmethode\. Grundlagen und Anwendung in Persönlichkeits\-, Einstellungs\- und Selbstkonzeptforschung* \(6\. Aufl\.\)\. Göttingen: Hogrefe\.
-
-Niebert, F\. \(2018\)\. *HYBRID\-BRETTSPIELE: DIE NEUE GENERATION DES SPIELENS*
-
-*Das mobile Endgerät nimmt eine wichtige Rolle ein*\. Zugriff am 24\.05\.2019 unter: https://www\.trendyone\.de/news/hybrid\-brettspiele\-die\-neue\-generation\-des\-spielens
-
-Nissen, T\. \(o\. J\.\)\. *Taschengeldtabelle\. Wie hoch sollte das Taschengeld sein? Regeln, Ratgeber zum Ausdrucken und Expertenmeinung*\. Zugriff am 31\.05\.2019 unter: https://www\.arbeitsgemeinschaft\-finanzen\.de/soziales/taschengeld/
-
-Nvidia \(Hrsg\.\) \(o\. J\.\)\. *Deep Learning*\. Zugriff am 3\.6\.2019 unter: https://developer\.nvidia\.com/deep\-learning 
-
-O’Neilla, H\. M\., Maarbjerg, S\. J\., Crane, J\. D\., Jeppesen, J\., Jørgensen, S\. B\., Schertzer, J\. D\., Shyroka, O\., Kiens, B\., van Denderen, B\. J\., Tarnopolsky, M\. A\., Kemp, B\. E\., Richter E\. A\. & Steinberg, G\. R\. \(2011\)\. *AMP\-activated protein kinase \(AMPK\) β1β2 muscle null mice reveal an essential role for AMPK in maintaining*
-
-*mitochondrial content and glucose uptake during exercise*\. Zugriff am 3\.6\.2019 unter: https://www\.pnas\.org/content/108/38/16092
-
-Perridon, L\., Steiner, M\. & Rathgeber, A\. \(2016\)\. *Finanzwirtschaft der Unternehmung *\(17\. Aufl\.\)\. München: Verlag Franz Vahlen\.
-
-Porst, R\. \(2014\)\. *Fragebogen\. Ein Arbeitsbuch*\. Wiesbaden: Springer VS\.
-
-PRNewswire \(Hrsg\.\) \(2018\)\. *PlayFusion: Sammelkarten\-Booster Packs für "Warhammer Age of Sigmar: Champions" ausverkauft*\. Zugriff am 15\.05\.2019 unter: [https://www\.presseportal\.de/pm/130009/4036737](https://www.presseportal.de/pm/130009/4036737)
-
-Pyka, P\. \(2017\)\. *MARKETING 4\.0\. Der Leitfaden für das Marketing der Zukunft*\. Frankfurt: Campus Verlag\.
-
-Russell, S\. J\. & Novig, P\. \(2016\)\. *Artificial Intelligience: A modern approach* \(3\. Aufl\.\)\. Boston: Pearson\.
-
-Schellhammer, S\. \(2002\)\. *Bewegungslehre\. Motorisches Lernen aus Sicht der Physiotherapie*\. Landshut: Urban & Fischer Verlag\.
-
-Schmitt, F\., Christopher, S\. M\., Tumanov, K\., Weiss, G\. & Möckel, R\. \(2018\)\. Evaluating the Adoption of the Physical Board Game Ludo for Automated Assessments of Cognitive Abilities\. In S\. Göbel, A\. Garcia\-Agundez, T\. Tregel, M\. Ma, J\. Baalsrud Hauge, M\. Oliveira, T\. Marsh, P\. Caserman \(Hrsg\.\), *Serious Games \- 4th Joint International Conference, JCSG 2018 *\(S\. 263\-275\)\. Cham: Springer Nature Switzerland AG\.
-
-Schmitt\-Sausen, Nora \(2018\)\. *Deutsches Ärzteblatt 2018\. USA: Das Digitalzeitalter entfaltet sein Potential*\. Deutsches Ärzteblatt 2018, 115 \(15\): A\-698 / B\-600 / C\-601\.
-
-Schneider, F\. \(2017\)\. Entwickler verrät: Werbung bringt deutlich mehr als In\-App\-Kauf zur Deaktivierung von Werbung\. Zugriff am 22\.05\.2019 unter: https://www\.appgefahren\.de/entwickler\-verraet\-werbung\-bringt\-deutlich\-mehr\-als\-in\-app\-kauf\-zur\-deaktivierung\-von\-werbung\-191605\.html
-
-Scholl, A\. \(2018\)\. *Die Befragung *\(4\. Aufl\.\)\. UVK Verlagsgesellschaft mbH\.
-
-Schön, D\. \(2013\)\. *Android\-App bewerben: Die 5 besten Marketing\-Tipps\.* Zugriff am 15\.05\.2019 unter: https://praxistipps\.chip\.de/android\-app\-bewerben\-die\-5\-besten\-marketing\-tipps\_20262
-
-Sinclair, J\., Hingston, P\., & Masek, M\. \(2009\)\. Exergame development using the dual flow model\. *In Proceedings of the Sixth Australasian Conference on Interactive Entertainment* \(S\. 11\)\. New York: ACM\.
-
-Spitzer, Manfred \(2002\)\. *Lernen\. Gehirnforschung und Schule des Lebens*\. Heidelberg: Spektrum Akademischer Verlag GmbH\.
-
-Steinmüller, W\., Schaefer, K\. & Fortwängler, M\. \(2009\)\. *Gesundheit – Lernen – Kreativität\. Alexander\-Technik, Eutonie Gerda Alexander und Feldenkrais als Methoden zur Gestaltung somatopsychischer Lernprozesse* \(2\. Aufl\.\)\. Bern: Verlag Hans Huber\.
-
-Strahringer, S\. & Leyh, C\. \(2017\)\. *Gamification und Serious Games\. Grundlagen, Vorgehen und Anwendungen*\. Wiesbaden: Springer Fachmedien\.
-
-Strotbaum, V\. & Reiß, B \(2017\)\. Apps im Gesundheitswesen – echter medizinischer Nutzen oder der Weg zum gläsernen Patienten\. In Müller\-Mielitz & Lux \(Hrsg\.\), *E\-Health\-Ökonomie *\(S\. 359\-383\)\. Wiesbaden: Springer Fachmedien\.
-
-Techniker Krankenkasse \(Hrsg\.\) \(2019\)\. App fördert frühkindliche Sprache\. *Die Techniker\. Das Magazin*, 1/19, 28\.
-
-Thomas, C\. \(2018\)\. *Cross Platform Mobile Development in 2018: A Beginner's Guide*\. Zugriff am 7\.6\.2019 unter: https://trifinlabs\.com/cross\-platform\-mobile\-development/
-
-Tischer, S\. \(2018\)\.* Millionen\-Exit bei Freeletics: Gründer steigen aus*\. Zugriff am 13\.05\.2019 unter https://www\.munich\-startup\.de/39490/exit\-freeletics/
-
-Toman, R\. \(Hrsg\.\) \(1996\)\. *Die Kunst der Romanik*\. Oldenburg: Neue Stalling\.
-
-Von Reventlow, C\. & Thesen, P\. \(2019\)\. *The Digital Shift\. Design’s new Role as Artificial Intelligence Transforms into Personal Intelligence*\. Göttingen: Steidl
-
-Urlen, M\. \(2017\)\. Hellhörig werden, wenn Kinder zu sehr fixiert sind\. *Stiftung Warentest, 7/2017*, 32\.
-
 # Anhang
 
 __Spielgrafik 1:__ ‚SAM‘ und ‚SEB‘
@@ -760,8 +623,3 @@ Hiermit versichere ich, dass ich die vorliegende Bachelorarbeit mit dem Titel �
 Die Stellen der Bachelorarbeit, einschließlich der Tabellen und Abbildungen, die anderen Werken dem Wortlaut oder dem Sinn nach entnommen sind, habe ich in jedem Fall kenntlich gemacht und die Herkunft nachgewiesen\.
 
 Die Bachelorarbeit hat in gleicher oder ähnlicher Form noch keiner anderen Prüfungsbehörde vorgelegen und wurde auch noch nicht veröffentlicht\.
-
-Köln, den					Unterschrift:
-
-::: {#refs}
-:::
