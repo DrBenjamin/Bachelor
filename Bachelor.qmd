@@ -6,7 +6,7 @@ author:
   email: ben@seriousbenentertainment.org
   affiliation:
     - Carl Remigius Medical School - Fresnius University of Applied Sciences
-    - "Email: sben@seriousbenentertainment.org"
+    - "Email: ben@seriousbenentertainment.org"
     - "Website: https://drbenjamin.github.io"
 filters:
   - ./resources/adjustTime.lua
