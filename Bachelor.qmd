@@ -2,7 +2,7 @@
 title: "Bachelor Thesis"
 subtitle: "Gesundheit und Management"
 author:
-  name: "© Benjamin Gross"
+  name: "© Benjamin Groß"
   email: ben@seriousbenentertainment.org
   affiliation:
     - Carl Remigius Medical School - Fresnius University of Applied Sciences
@@ -33,13 +33,6 @@ format:
     documentclass: scrartcl
     fontsize: 12pt
     geometry: margin=2.5cm
-    toc: true
-    toc-expand: 5
-    toc-depth: 5
-    number-sections: false
-    number-depth: 5
-  docx:
-    keep-tex: false
     toc: true
     toc-expand: 5
     toc-depth: 5
@@ -623,3 +616,8 @@ Hiermit versichere ich, dass ich die vorliegende Bachelorarbeit mit dem Titel �
 Die Stellen der Bachelorarbeit, einschließlich der Tabellen und Abbildungen, die anderen Werken dem Wortlaut oder dem Sinn nach entnommen sind, habe ich in jedem Fall kenntlich gemacht und die Herkunft nachgewiesen\.
 
 Die Bachelorarbeit hat in gleicher oder ähnlicher Form noch keiner anderen Prüfungsbehörde vorgelegen und wurde auch noch nicht veröffentlicht\.
+
+# Literaturverzeichnis
+
+::: {#refs}
+:::
