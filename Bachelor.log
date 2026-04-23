@@ -1299,17 +1299,17 @@ Underfull \hbox (badness 6608) in paragraph at lines 203--205
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 [4]
-<resources/Bachelor-docx-media/image2.jpeg, id=30, 385.44pt x 272.51813pt>
-File: resources/Bachelor-docx-media/image2.jpeg Graphic file (type jpg)
-<use resources/Bachelor-docx-media/image2.jpeg>
-Package luatex.def Info: resources/Bachelor-docx-media/image2.jpeg  used on inp
+<resources/images/image2.jpeg, id=30, 385.44pt x 272.51813pt>
+File: resources/images/image2.jpeg Graphic file (type jpg)
+<use resources/images/image2.jpeg>
+Package luatex.def Info: resources/images/image2.jpeg  used on inp
 ut line 497.
 (luatex.def)             Requested size: 385.43906pt x 272.51746pt.
-[5] [6<./resources/Bachelor-docx-media/image2.jpeg>] [7] [8] [9] [10] [11]
-<resources/Bachelor-docx-media/image3.png, id=62, 671.50874pt x 445.665pt>
-File: resources/Bachelor-docx-media/image3.png Graphic file (type png)
-<use resources/Bachelor-docx-media/image3.png>
-Package luatex.def Info: resources/Bachelor-docx-media/image3.png  used on inpu
+[5] [6<./resources/images/image2.jpeg>] [7] [8] [9] [10] [11]
+<resources/images/image3.png, id=62, 671.50874pt x 445.665pt>
+File: resources/images/image3.png Graphic file (type png)
+<use resources/images/image3.png>
+Package luatex.def Info: resources/images/image3.png  used on inpu
 t line 942.
 (luatex.def)             Requested size: 671.50711pt x 445.66391pt.
 
@@ -1318,10 +1318,10 @@ Overfull \hbox (10.9543pt too wide) in paragraph at lines 942--943
  []
 
 [12]
-<resources/Bachelor-docx-media/image4.png, id=68, 673.51625pt x 427.5975pt>
-File: resources/Bachelor-docx-media/image4.png Graphic file (type png)
-<use resources/Bachelor-docx-media/image4.png>
-Package luatex.def Info: resources/Bachelor-docx-media/image4.png  used on inpu
+<resources/images/image4.png, id=68, 673.51625pt x 427.5975pt>
+File: resources/images/image4.png Graphic file (type png)
+<use resources/images/image4.png>
+Package luatex.def Info: resources/images/image4.png  used on inpu
 t line 964.
 (luatex.def)             Requested size: 673.5146pt x 427.59645pt.
 
@@ -1329,7 +1329,7 @@ Overfull \hbox (10.9519pt too wide) in paragraph at lines 964--965
 [][] 
  []
 
-[13<./resources/Bachelor-docx-media/image3.png>] [14<./resources/Bachelor-docx-m
+[13<./resources/images/image3.png>] [14<./resources/Bachelor-docx-m
 edia/image4.png>] [15] [16]
 Missing character: There is no ≙ (U+2259) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ≙ (U+2259) in font [lmroman10-regular]:+tlig;!
@@ -1349,17 +1349,17 @@ Missing character: There is no ≙ (U+2259) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ≙ (U+2259) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ≙ (U+2259) in font [lmroman10-regular]:+tlig;!
 ]
-<resources/Bachelor-docx-media/image5.jpeg, id=94, 200.385pt x 283.4955pt>
-File: resources/Bachelor-docx-media/image5.jpeg Graphic file (type jpg)
-<use resources/Bachelor-docx-media/image5.jpeg>
-Package luatex.def Info: resources/Bachelor-docx-media/image5.jpeg  used on inp
+<resources/images/image5.jpeg, id=94, 200.385pt x 283.4955pt>
+File: resources/images/image5.jpeg Graphic file (type jpg)
+<use resources/images/image5.jpeg>
+Package luatex.def Info: resources/images/image5.jpeg  used on inp
 ut line 1290.
 (luatex.def)             Requested size: 200.38449pt x 283.4948pt.
-[18] [19<./resources/Bachelor-docx-media/image5.jpeg>] [20]
-<resources/Bachelor-docx-media/image6.png, id=107, 671.50874pt x 222.8325pt>
-File: resources/Bachelor-docx-media/image6.png Graphic file (type png)
-<use resources/Bachelor-docx-media/image6.png>
-Package luatex.def Info: resources/Bachelor-docx-media/image6.png  used on inpu
+[18] [19<./resources/images/image5.jpeg>] [20]
+<resources/images/image6.png, id=107, 671.50874pt x 222.8325pt>
+File: resources/images/image6.png Graphic file (type png)
+<use resources/images/image6.png>
+Package luatex.def Info: resources/images/image6.png  used on inpu
 t line 1441.
 (luatex.def)             Requested size: 671.50711pt x 222.83195pt.
 
@@ -1367,11 +1367,11 @@ Overfull \hbox (10.9543pt too wide) in paragraph at lines 1441--1442
 [][] 
  []
 
-[21<./resources/Bachelor-docx-media/image6.png>] [22] [23]
-<resources/Bachelor-docx-media/image7.png, id=122, 441.504pt x 186.588pt>
-File: resources/Bachelor-docx-media/image7.png Graphic file (type png)
-<use resources/Bachelor-docx-media/image7.png>
-Package luatex.def Info: resources/Bachelor-docx-media/image7.png  used on inpu
+[21<./resources/images/image6.png>] [22] [23]
+<resources/images/image7.png, id=122, 441.504pt x 186.588pt>
+File: resources/images/image7.png Graphic file (type png)
+<use resources/images/image7.png>
+Package luatex.def Info: resources/images/image7.png  used on inpu
 t line 1617.
 (luatex.def)             Requested size: 441.50291pt x 186.58752pt.
 
@@ -1379,45 +1379,45 @@ Overfull \hbox (220.63211pt too wide) in paragraph at lines 1616--1618
 []\TU/lmr/m/n/10.95 Abb. 4.3.2.1: Bud-get-plan ‚Bolt Ri-ley Episode 1‘[] 
  []
 
-[24<./resources/Bachelor-docx-media/image7.png>] [25]
-<resources/Bachelor-docx-media/image8.png, id=132, 239.9364pt x 98.0463pt>
-File: resources/Bachelor-docx-media/image8.png Graphic file (type png)
-<use resources/Bachelor-docx-media/image8.png>
-Package luatex.def Info: resources/Bachelor-docx-media/image8.png  used on inpu
+[24<./resources/images/image7.png>] [25]
+<resources/images/image8.png, id=132, 239.9364pt x 98.0463pt>
+File: resources/images/image8.png Graphic file (type png)
+<use resources/images/image8.png>
+Package luatex.def Info: resources/images/image8.png  used on inpu
 t line 1773.
 (luatex.def)             Requested size: 239.9358pt x 98.04604pt.
-<resources/Bachelor-docx-media/image9.png, id=133, 239.2137pt x 57.5751pt>
-File: resources/Bachelor-docx-media/image9.png Graphic file (type png)
-<use resources/Bachelor-docx-media/image9.png>
-Package luatex.def Info: resources/Bachelor-docx-media/image9.png  used on inpu
+<resources/images/image9.png, id=133, 239.2137pt x 57.5751pt>
+File: resources/images/image9.png Graphic file (type png)
+<use resources/images/image9.png>
+Package luatex.def Info: resources/images/image9.png  used on inpu
 t line 1786.
 (luatex.def)             Requested size: 239.2131pt x 57.57495pt.
-[26<./resources/Bachelor-docx-media/image8.png>]
+[26<./resources/images/image8.png>]
 Missing character: There is no ⅔ (U+2154) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ⅔ (U+2154) in font [lmroman10-regular]:+tlig;!
 Missing character: There is no ⅔ (U+2154) in font [lmroman10-regular]:+tlig;!
-<resources/Bachelor-docx-media/image10.png, id=139, 238.7319pt x 58.2978pt>
-File: resources/Bachelor-docx-media/image10.png Graphic file (type png)
-<use resources/Bachelor-docx-media/image10.png>
-Package luatex.def Info: resources/Bachelor-docx-media/image10.png  used on inp
+<resources/images/image10.png, id=139, 238.7319pt x 58.2978pt>
+File: resources/images/image10.png Graphic file (type png)
+<use resources/images/image10.png>
+Package luatex.def Info: resources/images/image10.png  used on inp
 ut line 1797.
 (luatex.def)             Requested size: 238.73131pt x 58.29765pt.
-<resources/Bachelor-docx-media/image11.png, id=140, 239.2137pt x 56.8524pt>
-File: resources/Bachelor-docx-media/image11.png Graphic file (type png)
-<use resources/Bachelor-docx-media/image11.png>
-Package luatex.def Info: resources/Bachelor-docx-media/image11.png  used on inp
+<resources/images/image11.png, id=140, 239.2137pt x 56.8524pt>
+File: resources/images/image11.png Graphic file (type png)
+<use resources/images/image11.png>
+Package luatex.def Info: resources/images/image11.png  used on inp
 ut line 1808.
 (luatex.def)             Requested size: 239.2131pt x 56.85225pt.
-<resources/Bachelor-docx-media/image12.png, id=141, 239.4546pt x 56.3706pt>
-File: resources/Bachelor-docx-media/image12.png Graphic file (type png)
-<use resources/Bachelor-docx-media/image12.png>
-Package luatex.def Info: resources/Bachelor-docx-media/image12.png  used on inp
+<resources/images/image12.png, id=141, 239.4546pt x 56.3706pt>
+File: resources/images/image12.png Graphic file (type png)
+<use resources/images/image12.png>
+Package luatex.def Info: resources/images/image12.png  used on inp
 ut line 1820.
 (luatex.def)             Requested size: 239.45401pt x 56.37045pt.
 [27
 Missing character: There is no ⅔ (U+2154) in font [lmroman10-regular]:+tlig;!
-<./resources/Bachelor-docx-media/image9.png><./resources/Bachelor-docx-media/ima
-ge10.png><./resources/Bachelor-docx-media/image11.png><./resources/Bachelor-docx
+<./resources/images/image9.png><./resources/images/ima
+ge10.png><./resources/images/image11.png><./resources/Bachelor-docx
 -media/image12.png>] [28]
 
 ! LaTeX Error: Unknown graphics extension: .x-emf.
